@@ -1,0 +1,157 @@
+Hyperperiod 300
+No_of_Tasks 1
+No_of_Processor 5
+# Task Graph 1 begins
+t_id 0
+t_rtime 0
+t_period 300
+t_dline 100
+t_nst 45
+st1 29 17 31 23 37
+st2 50 7 30 17 43
+st3 11 51 38 13 48
+st4 35 52 39 52 8
+st5 7 39 14 18 15
+st6 32 45 23 41 9
+st7 11 17 52 18 54
+st8 52 36 24 33 31
+st9 4 24 26 9 45
+st10 21 23 11 19 31
+st11 11 21 18 3 22
+st12 19 29 25 38 17
+st13 25 23 23 23 28
+st14 49 18 39 19 46
+st15 17 48 24 5 53
+st16 49 25 51 8 38
+st17 40 5 26 47 3
+st18 14 52 9 39 22
+st19 21 28 48 17 22
+st20 20 46 40 41 43
+st21 33 53 6 45 12
+st22 17 47 26 38 24
+st23 38 52 35 38 52
+st24 46 45 31 53 18
+st25 53 48 11 37 22
+st26 54 9 31 54 49
+st27 23 46 6 38 14
+st28 50 26 19 43 12
+st29 42 33 8 51 9
+st30 45 53 12 34 53
+st31 34 26 54 33 50
+st32 53 9 23 29 10
+st33 16 20 10 7 42
+st34 49 11 51 19 15
+st35 54 20 21 48 14
+st36 5 51 48 15 52
+st37 4 39 31 9 47
+st38 26 9 40 6 17
+st39 16 46 48 18 44
+st40 39 39 26 31 29
+st41 36 47 54 39 25
+st42 49 43 47 32 16
+st43 10 16 47 12 19
+st44 33 36 21 46 4
+st45 30 16 50 54 18
+Link_from 0 1 7
+Link_from 0 2 36
+Link_from 1 2 40
+Link_from 2 3 37
+Link_from 0 3 8
+Link_from 1 4 36
+Link_from 3 4 30
+Link_from 0 4 17
+Link_from 4 5 7
+Link_from 4 6 30
+Link_from 4 7 9
+Link_from 4 8 30
+Link_from 4 9 29
+Link_from 7 10 39
+Link_from 2 10 14
+Link_from 3 10 40
+Link_from 5 10 34
+Link_from 10 11 32
+Link_from 10 12 34
+Link_from 10 13 8
+Link_from 7 14 26
+Link_from 13 14 17
+Link_from 6 14 9
+Link_from 11 14 8
+Link_from 5 15 20
+Link_from 10 15 26
+Link_from 9 16 17
+Link_from 9 17 16
+Link_from 9 18 20
+Link_from 8 19 26
+Link_from 15 20 36
+Link_from 7 21 38
+Link_from 13 21 8
+Link_from 14 22 28
+Link_from 14 23 33
+Link_from 14 24 38
+Link_from 14 25 19
+Link_from 14 26 27
+Link_from 16 26 40
+Link_from 18 27 20
+Link_from 18 28 34
+Link_from 18 29 22
+Link_from 21 30 40
+Link_from 21 31 16
+Link_from 21 32 29
+Link_from 21 33 30
+Link_from 21 34 26
+Link_from 29 35 34
+Link_from 29 36 17
+Link_from 29 37 8
+Link_from 29 38 15
+Link_from 20 39 9
+Link_from 20 40 38
+Link_from 20 41 10
+Link_from 20 42 30
+Link_from 35 43 34
+Link_from 35 44 15
+task_end -1
+E_P0 15.0 104.0
+E_P1 14.0 75.0
+E_P2 26.0 47.0
+E_P3 11.0 44.0
+E_P4 15.0 104.0
+E_PP 0 1 60.000000 60.000000
+E_PP 0 2 60.000000 60.000000
+E_PP 0 3 60.000000 60.000000
+E_PP 0 4 60.000000 60.000000
+E_PP 1 2 60.000000 60.000000
+E_PP 1 3 60.000000 60.000000
+E_PP 1 4 60.000000 60.000000
+E_PP 2 3 60.000000 60.000000
+E_PP 2 4 60.000000 60.000000
+E_PP 3 4 60.000000 60.000000
+Energy-End -1
+No_of_pairs 4
+Pair1 4
+Levl 1.75 100
+Levl 1.40 80
+Levl 1.20 60
+Levl 0.90 40
+Pair2 7
+Levl 1.50 100
+Levl 1.40 90
+Levl 1.30 80
+Levl 1.20 70
+Levl 1.10 60
+Levl 1.00 50
+Levl 0.90 40
+Pair3 5
+Levl 2.20 100
+Levl 1.90 85
+Levl 1.60 65
+Levl 1.30 50
+Levl 1.00 35
+Pair4 3
+Levl 1.50 100
+Levl 1.20 80
+Levl 0.90 50
+PairEnd -1
+# ----- Overall values ----
+# CCR 1.037382
+# hpUT 0.916790 UT 0.916790
+# TASD 13.292936

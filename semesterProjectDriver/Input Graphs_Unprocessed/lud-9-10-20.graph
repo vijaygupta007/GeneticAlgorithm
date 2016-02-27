@@ -1,0 +1,65 @@
+Hyperperiod 5000
+No_of_Tasks 1
+No_of_Processor 3
+# Task Graph 1 begins
+t_id 0
+t_rtime 0
+t_period 5000
+t_dline 100
+t_nst 9
+st1 33 41 51
+st2 31 38 47
+st3 32 40 50
+st4 28 35 43
+st5 31 38 47
+st6 30 37 46
+st7 33 41 51
+st8 31 38 47
+st9 32 40 50
+Link_from 0 1 323
+Link_from 0 2 323
+Link_from 0 3 323
+Link_from 1 4 328
+Link_from 2 5 328
+Link_from 3 6 328
+Link_from 4 5 321
+Link_from 4 6 321
+Link_from 5 7 330
+Link_from 6 8 330
+Link_from 7 8 319
+task_end -1
+E_P0 15.0 104.0
+E_P1 12.0 75.0
+E_P2 7.0 47.0
+E_PP 0 1 20.000000 20.000000
+E_PP 0 2 20.000000 20.000000
+E_PP 1 2 20.000000 20.000000
+Energy-End -1
+No_of_pairs 4
+Pair1 4
+Levl 1.75 100
+Levl 1.40 80
+Levl 1.20 60
+Levl 0.90 40
+Pair2 7
+Levl 1.50 100
+Levl 1.40 90
+Levl 1.30 80
+Levl 1.20 70
+Levl 1.10 60
+Levl 1.00 50
+Levl 0.90 40
+Pair3 5
+Levl 2.20 100
+Levl 1.90 85
+Levl 1.60 65
+Levl 1.30 50
+Levl 1.00 35
+Pair4 3
+Levl 1.50 100
+Levl 1.20 80
+Levl 0.90 50
+PairEnd -1
+# ----- Overall values ----
+# CCR 10.105561
+# TASD 12.355680

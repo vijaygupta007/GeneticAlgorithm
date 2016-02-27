@@ -1,0 +1,239 @@
+Hyperperiod 600
+No_of_Tasks 1
+No_of_Processor 3
+# Task Graph 1 begins
+t_id 0
+t_rtime 0
+t_period 600
+t_dline 100 
+t_nst 37
+st1 23 24 32
+st2 23 30 13
+st3 47 3 46
+st4 23 5 22
+st5 13 50 5
+st6 47 8 39
+st7 47 2 2
+st8 17 13 49
+st9 8 64 4
+st10 49 45 67
+st11 57 58 50
+st12 32 10 13
+st13 28 47 33
+st14 12 9 28
+st15 20 32 4
+st16 17 15 43
+st17 17 48 16
+st18 25 63 26
+st19 13 15 33
+st20 2 8 10
+st21 26 51 23
+st22 40 49 15
+st23 61 3 10
+st24 12 60 45
+st25 5 35 60
+st26 26 57 15
+st27 21 13 47
+st28 65 37 17
+st29 29 34 31
+st30 21 16 6
+st31 26 25 32
+st32 25 4 6
+st33 17 8 9
+st34 48 2 14
+st35 46 2 20
+st36 6 6 35
+st37 25 46 24
+Link_from 0 1 132
+Link_from 0 2 55
+Link_from 1 2 16
+Link_from 0 3 186
+Link_from 1 3 130
+Link_from 2 3 32
+Link_from 3 4 112
+Link_from 3 5 29
+Link_from 3 6 95
+Link_from 3 7 16
+Link_from 7 8 62
+Link_from 7 9 77
+Link_from 7 10 109
+Link_from 10 11 32
+Link_from 7 11 19
+Link_from 6 12 180
+Link_from 6 13 154
+Link_from 6 14 15
+Link_from 6 15 154
+Link_from 13 15 194
+Link_from 10 15 77
+Link_from 3 15 179
+Link_from 0 16 130
+Link_from 5 16 77
+Link_from 6 16 57
+Link_from 14 17 212
+Link_from 7 18 15
+Link_from 9 18 16
+Link_from 8 19 179
+Link_from 17 19 51
+Link_from 2 19 177
+Link_from 16 20 32
+Link_from 16 21 108
+Link_from 16 22 150
+Link_from 16 23 10
+Link_from 23 24 194
+Link_from 23 25 92
+Link_from 18 26 15
+Link_from 0 26 27
+Link_from 25 27 131
+Link_from 25 28 15
+Link_from 25 29 92
+Link_from 5 30 15
+Link_from 29 30 92
+Link_from 18 30 16
+Link_from 8 31 191
+Link_from 25 31 92
+Link_from 26 32 180
+Link_from 19 33 212
+Link_from 25 33 92
+Link_from 15 33 108
+Link_from 27 33 217
+Link_from 15 34 77
+Link_from 24 35 150
+Link_from 27 35 51
+Link_from 1 35 18
+Link_from 31 35 15
+Link_from 20 36 179
+task_end -1
+E_P0 15.0 104.0
+E_P1 14.0 75.0
+E_P2 26.0 47.0
+E_PP01 0 1 40.0 40.0
+E_PP02 0 2 40.0 40.0
+E_PP12 1 2 40.0 40.0
+Energy-End -1
+No_of_pairs 4
+Pair1 4
+Levl 1.75 100
+Levl 1.40 80
+Levl 1.20 60
+Levl 0.90 40
+Pair2 7
+Levl 1.50 100
+Levl 1.40 90
+Levl 1.30 80
+Levl 1.20 70
+Levl 1.10 60
+Levl 1.00 50
+Levl 0.90 40
+Pair3 5
+Levl 2.20 100
+Levl 1.90 85
+Levl 1.60 65
+Levl 1.30 50
+Levl 1.00 35
+Pair4 3
+Levl 1.50 100
+Levl 1.20 80
+Levl 0.90 50
+PairEnd -1
+# Task 1 
+# Job 1 Min 23.637900 Max 32.098900 SD 3.796187
+# Job 2 Min 13.437100 Max 30.096200 SD 6.830402
+# Job 3 Min 3.731390 Max 47.884600 SD 20.385092
+# Job 4 Min 5.587000 Max 23.034100 SD 8.110532
+# Job 5 Min 5.574570 Max 50.358400 SD 19.564320
+# Job 6 Min 8.413070 Max 47.233500 SD 16.727217
+# Job 7 Min 2.486190 Max 47.553500 SD 21.175583
+# Job 8 Min 13.283700 Max 49.139900 SD 16.060216
+# Job 9 Min 4.780850 Max 64.428300 SD 27.338978
+# Job 10 Min 45.304600 Max 67.271600 SD 9.581017
+# Job 11 Min 50.623200 Max 58.205800 SD 3.439207
+# Job 12 Min 10.588700 Max 32.136500 SD 9.620977
+# Job 13 Min 28.921400 Max 47.076900 SD 7.719101
+# Job 14 Min 9.834630 Max 28.193200 SD 8.045958
+# Job 15 Min 4.965920 Max 32.373500 SD 11.236493
+# Job 16 Min 15.124600 Max 43.791300 SD 12.965870
+# Job 17 Min 16.596400 Max 48.529600 SD 14.759638
+# Job 18 Min 25.650300 Max 63.911600 SD 17.886690
+# Job 19 Min 13.207300 Max 33.746100 SD 9.267071
+# Job 20 Min 2.276270 Max 10.448900 SD 3.493796
+# Job 21 Min 23.344100 Max 51.323400 SD 12.596421
+# Job 22 Min 15.941500 Max 49.315600 SD 14.116454
+# Job 23 Min 3.094650 Max 61.307600 SD 25.827991
+# Job 24 Min 12.164500 Max 60.899300 SD 20.320036
+# Job 25 Min 5.617450 Max 60.335200 SD 22.370674
+# Job 26 Min 15.741300 Max 57.916100 SD 17.945918
+# Job 27 Min 13.438100 Max 47.275800 SD 14.474310
+# Job 28 Min 17.445500 Max 65.275100 SD 19.598010
+# Job 29 Min 29.658900 Max 34.748900 SD 2.091748
+# Job 30 Min 6.295800 Max 21.532800 SD 6.326633
+# Job 31 Min 25.820700 Max 32.349100 SD 2.987745
+# Job 32 Min 4.610200 Max 25.433300 SD 9.428373
+# Job 33 Min 8.452610 Max 17.701800 SD 4.176753
+# Job 34 Min 2.457270 Max 48.291300 SD 19.457372
+# Job 35 Min 2.660960 Max 46.839000 SD 18.153439
+# Job 36 Min 6.083800 Max 35.938300 SD 13.893212
+# Job 37 Min 24.443100 Max 46.666200 SD 10.290399
+# Arc 1 Cost 132.274000
+# Arc 2 Cost 55.692700
+# Arc 3 Cost 16.015500
+# Arc 4 Cost 186.312000
+# Arc 5 Cost 130.854000
+# Arc 6 Cost 32.879700
+# Arc 7 Cost 112.698000
+# Arc 8 Cost 29.926400
+# Arc 9 Cost 95.377100
+# Arc 10 Cost 16.015500
+# Arc 11 Cost 62.472500
+# Arc 12 Cost 77.185900
+# Arc 13 Cost 109.627000
+# Arc 14 Cost 32.879700
+# Arc 15 Cost 19.160500
+# Arc 16 Cost 180.555000
+# Arc 17 Cost 154.731000
+# Arc 18 Cost 15.647000
+# Arc 19 Cost 154.731000
+# Arc 20 Cost 194.896000
+# Arc 21 Cost 77.185900
+# Arc 22 Cost 179.862000
+# Arc 23 Cost 130.854000
+# Arc 24 Cost 77.185900
+# Arc 25 Cost 57.782000
+# Arc 26 Cost 212.602000
+# Arc 27 Cost 15.647000
+# Arc 28 Cost 16.015500
+# Arc 29 Cost 179.862000
+# Arc 30 Cost 51.282600
+# Arc 31 Cost 177.506000
+# Arc 32 Cost 32.879700
+# Arc 33 Cost 108.569000
+# Arc 34 Cost 150.339000
+# Arc 35 Cost 10.170200
+# Arc 36 Cost 194.896000
+# Arc 37 Cost 92.358700
+# Arc 38 Cost 15.447300
+# Arc 39 Cost 27.366100
+# Arc 40 Cost 131.962000
+# Arc 41 Cost 15.647000
+# Arc 42 Cost 92.358700
+# Arc 43 Cost 15.447300
+# Arc 44 Cost 92.358700
+# Arc 45 Cost 16.015500
+# Arc 46 Cost 191.420000
+# Arc 47 Cost 92.358700
+# Arc 48 Cost 180.963000
+# Arc 49 Cost 212.602000
+# Arc 50 Cost 92.358700
+# Arc 51 Cost 108.569000
+# Arc 52 Cost 217.649000
+# Arc 53 Cost 77.185900
+# Arc 54 Cost 150.339000
+# Arc 55 Cost 51.282600
+# Arc 56 Cost 18.644000
+# Arc 57 Cost 15.647000
+# Arc 58 Cost 179.862000
+# ASD 13.028644 
+# CCR 5.550483 
+# ----- Overall values ----
+# CCR 5.550483
+# hpUT 0.557550 UT 0.557550
+# TASD 13.028644

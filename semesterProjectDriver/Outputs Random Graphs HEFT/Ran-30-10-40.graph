@@ -1,0 +1,6 @@
+Makespan= 953
+Speedup= 1.20881
+EnergyCore(busy,idle)=	( 63797 , 22781 )
+EnergyCommunication(busy,idle)=	( 54000 , 76240 )
+Etotal=	 216818
+Alpha 227.511

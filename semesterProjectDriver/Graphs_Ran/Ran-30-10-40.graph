@@ -1,0 +1,125 @@
+Hyperperiod 330
+No_of_Tasks 1
+No_of_Processor 3
+# Task Graph 1 begins
+t_id 0
+t_rtime 0
+t_period 330
+t_dline 100
+t_nst 30
+st1 54 44 25
+st2 36 52 45
+st3 41 14 44
+st4 18 45 38
+st5 44 53 55
+st6 27 33 20
+st7 31 25 46
+st8 43 20 45
+st9 30 32 54
+st10 39 37 43
+st11 53 43 51
+st12 33 39 53
+st13 38 51 35
+st14 39 47 42
+st15 31 49 30
+st16 43 44 20
+st17 43 9 29
+st18 18 37 43
+st19 37 49 27
+st20 31 52 53
+st21 14 17 26
+st22 44 30 43
+st23 51 55 55
+st24 30 53 17
+st25 55 49 51
+st26 54 51 51
+st27 50 38 54
+st28 55 55 39
+st29 43 48 23
+st30 27 33 53
+Link_from 0 1 265
+Link_from 1 2 297
+Link_from 0 2 183
+Link_from 0 3 203
+Link_from 2 3 229
+Link_from 3 4 277
+Link_from 4 5 196
+Link_from 3 5 204
+Link_from 5 6 265
+Link_from 6 7 308
+Link_from 5 8 229
+Link_from 7 9 316
+Link_from 3 9 144
+Link_from 8 9 313
+Link_from 8 10 239
+Link_from 6 10 263
+Link_from 1 11 218
+Link_from 6 11 173
+Link_from 10 12 285
+Link_from 10 13 316
+Link_from 10 14 207
+Link_from 9 15 297
+Link_from 14 15 118
+Link_from 7 15 200
+Link_from 13 16 263
+Link_from 13 17 230
+Link_from 7 17 265
+Link_from 2 17 297
+Link_from 11 18 319
+Link_from 18 19 265
+Link_from 18 20 277
+Link_from 2 21 324
+Link_from 15 21 229
+Link_from 13 21 324
+Link_from 12 22 321
+Link_from 16 22 203
+Link_from 15 23 301
+Link_from 20 23 204
+Link_from 9 23 256
+Link_from 11 24 301
+Link_from 12 24 193
+Link_from 9 24 242
+Link_from 20 25 143
+Link_from 16 25 118
+Link_from 8 26 239
+Link_from 4 26 319
+Link_from 26 27 319
+Link_from 26 28 183
+Link_from 20 29 227
+task_end -1
+E_P0 15.0 104.0
+E_P1 14.0 75.0
+E_P2 26.0 47.0
+E_PP 0 1 40.000000 40.000000
+E_PP 0 2 40.000000 40.000000
+E_PP 1 2 40.000000 40.000000
+Energy-End -1
+No_of_pairs 4
+Pair1 4
+Levl 1.75 100
+Levl 1.40 80
+Levl 1.20 60
+Levl 0.90 40
+Pair2 7
+Levl 1.50 100
+Levl 1.40 90
+Levl 1.30 80
+Levl 1.20 70
+Levl 1.10 60
+Levl 1.00 50
+Levl 0.90 40
+Pair3 5
+Levl 2.20 100
+Levl 1.90 85
+Levl 1.60 65
+Levl 1.30 50
+Levl 1.00 35
+Pair4 3
+Levl 1.50 100
+Levl 1.20 80
+Levl 0.90 50
+PairEnd -1
+# ----- Overall values ----
+# CCR 10.077086
+# hpUT 1.216339 UT 1.216339
+# TASD 8.104018

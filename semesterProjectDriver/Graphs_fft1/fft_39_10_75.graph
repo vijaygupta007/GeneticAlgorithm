@@ -1,0 +1,150 @@
+Hyperperiod 5000
+No_of_Tasks 1
+No_of_Processor 4
+# Task Graph 1 begins
+t_id 0
+t_rtime 0
+t_period 5000
+t_dline 100
+t_nst 39
+st1 35 43 53 66
+st2 36 45 56 70
+st3 36 45 56 70
+st4 32 40 50 62
+st5 32 40 50 62
+st6 32 40 50 62
+st7 32 40 50 62
+st8 38 47 58 72
+st9 38 47 58 72
+st10 38 47 58 72
+st11 38 47 59 74
+st12 38 47 59 74
+st13 39 49 61 76
+st14 39 49 61 77
+st15 39 49 61 77
+st16 35 43 53 66
+st17 35 43 53 66
+st18 35 43 53 66
+st19 35 43 54 67
+st20 35 44 55 69
+st21 35 44 55 69
+st22 35 44 55 69
+st23 35 44 55 69
+st24 36 45 56 70
+st25 36 45 56 70
+st26 36 45 56 70
+st27 36 45 56 70
+st28 36 45 56 70
+st29 36 45 56 70
+st30 36 45 56 70
+st31 36 45 56 70
+st32 32 40 50 62
+st33 32 40 50 62
+st34 32 40 50 62
+st35 32 40 50 62
+st36 32 40 50 62
+st37 32 40 50 63
+st38 32 40 50 63
+st39 32 40 50 63
+Link_from 0 1 336
+Link_from 0 2 336
+Link_from 1 3 337
+Link_from 1 4 337
+Link_from 2 5 337
+Link_from 2 6 337
+Link_from 3 7 334
+Link_from 3 8 334
+Link_from 4 9 334
+Link_from 4 10 334
+Link_from 5 11 334
+Link_from 5 12 334
+Link_from 6 13 334
+Link_from 6 14 334
+Link_from 7 15 334
+Link_from 8 16 334
+Link_from 9 17 334
+Link_from 10 18 334
+Link_from 11 19 334
+Link_from 12 20 334
+Link_from 13 21 334
+Link_from 14 22 334
+Link_from 15 23 339
+Link_from 16 24 339
+Link_from 17 25 339
+Link_from 18 26 339
+Link_from 19 27 339
+Link_from 20 28 339
+Link_from 21 29 339
+Link_from 22 30 339
+Link_from 23 31 332
+Link_from 24 32 332
+Link_from 25 33 332
+Link_from 26 34 332
+Link_from 27 35 332
+Link_from 28 36 332
+Link_from 29 37 332
+Link_from 30 38 332
+Link_from 7 16 334
+Link_from 9 18 334
+Link_from 11 20 334
+Link_from 13 22 334
+Link_from 15 25 339
+Link_from 16 26 339
+Link_from 19 29 339
+Link_from 20 30 339
+Link_from 23 35 332
+Link_from 24 36 332
+Link_from 25 37 332
+Link_from 26 38 332
+Link_from 8 15 334
+Link_from 10 17 334
+Link_from 12 19 334
+Link_from 14 21 334
+Link_from 17 23 339
+Link_from 18 24 339
+Link_from 21 27 339
+Link_from 22 28 339
+Link_from 27 31 332
+Link_from 28 32 332
+Link_from 29 33 332
+Link_from 30 34 332
+task_end -1
+E_P0 15.0 104.0
+E_P1 12.0 75.0
+E_P2 7.0 47.0
+E_P3 6.0 44.0
+E_PP 0 1 75.000000 75.000000
+E_PP 0 2 75.000000 75.000000
+E_PP 0 3 75.000000 75.000000
+E_PP 1 2 75.000000 75.000000
+E_PP 1 3 75.000000 75.000000
+E_PP 2 3 75.000000 75.000000
+Energy-End -1
+No_of_pairs 4
+Pair1 4
+Levl 1.75 100
+Levl 1.40 80
+Levl 1.20 60
+Levl 0.90 40
+Pair2 7
+Levl 1.50 100
+Levl 1.40 90
+Levl 1.30 80
+Levl 1.20 70
+Levl 1.10 60
+Levl 1.00 50
+Levl 0.90 40
+Pair3 5
+Levl 2.20 100
+Levl 1.90 85
+Levl 1.60 65
+Levl 1.30 50
+Levl 1.00 35
+Pair4 3
+Levl 1.50 100
+Levl 1.20 80
+Levl 0.90 50
+PairEnd -1
+# ----- Overall values ----
+# CCR 10.600663
+# TASD 479.118497
